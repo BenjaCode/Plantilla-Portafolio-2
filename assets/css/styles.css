@@ -129,7 +129,7 @@ h3{
 
 /* -- Hero -- */
 .hero{
-    background-image: url(../img/Fondo.png);
+    background-image: url(../../src/img/Fondo\ imagen.png);
     background-repeat: no-repeat;
     background-size: cover;
     height: 45rem;
